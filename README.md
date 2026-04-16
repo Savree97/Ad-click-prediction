@@ -12,7 +12,7 @@
 
 A machine learning system that predicts whether a user will click on an online advertisement based on behavioral patterns such as **time spent on site** and **salary**.
 
-This project explores how user engagement can be translated into predictive insights using both **linear** and **ensemble learning techniques**.
+This project demonstrates how user interaction data can be leveraged to build predictive models using both **linear** and **ensemble techniques**.
 
 ---
 
@@ -29,7 +29,7 @@ This project explores how user engagement can be translated into predictive insi
 
    * Confusion Matrix
    * Classification Report
-6. 🎯 Visualizes decision boundaries for better interpretability
+6. 🎯 Visualizes decision boundaries
 
 ---
 
@@ -53,16 +53,8 @@ This project explores how user engagement can be translated into predictive insi
 
 ## ▶️ How to Run
 
-### 🔹 Install Dependencies
-
 ```bash
-pip install -r requirements.txt
-```
-
-### 🔹 Run the Script
-
-```bash
-python ad_click_prediction.py
+python Predict Customer Ad Clicks with Logistic Regression and XG-Boost.py
 ```
 
 ---
@@ -84,7 +76,7 @@ python ad_click_prediction.py
 
 * Logistic Regression → Strong baseline performance
 * Gradient Boosting → Better handling of complex patterns
-* Feature scaling significantly improved accuracy
+* Feature scaling improves model efficiency
 
 ---
 
@@ -93,6 +85,5 @@ python ad_click_prediction.py
 **Savree Dohar**
 
 🎓 Thapar Institute of Engineering and Technology
-
 
 ---
