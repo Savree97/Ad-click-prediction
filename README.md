@@ -53,6 +53,7 @@ This project demonstrates how user interaction data can be leveraged to build pr
 
 ## ▶️ How to Run
 
+🔹 Run the Script
 ```bash
 python Predict Customer Ad Clicks with Logistic Regression and XG-Boost.py
 ```
