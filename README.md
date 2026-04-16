@@ -88,19 +88,11 @@ python ad_click_prediction.py
 
 ---
 
-## 🚀 Future Scope
-
-* Deploy using **Streamlit / Flask**
-* Add real-world features (age, device, location)
-* Hyperparameter tuning
-* Integrate advanced models like **XGBoost**
-
----
-
 ## 👤 Author
 
 **Savree Dohar**
+
 🎓 Thapar Institute of Engineering and Technology
-💡 Machine Learning | Data Science | AI
+
 
 ---
